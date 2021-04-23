@@ -15,6 +15,8 @@ sites:
     url: https://intra.informatik.uni-goettingen.de/wiki/index.php/Main_Page
   - name: Doc-Wiki (Public) - doc.informatik.uni-goettingen.de
     url: https://doc.informatik.uni-goettingen.de/wiki/index.php/Hauptseite
+  - name: User Homepages - user.informatik.uni-goettingen.de
+    url: https://user.informatik.uni-goettingen.de/~atmg/
   - name: Group - dbis - www.dbis.informatik.uni-goettingen.de
     url: https://www.dbis.informatik.uni-goettingen.de
   - name: Group - swe - www.swe.informatik.uni-goettingen.de
