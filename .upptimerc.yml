@@ -33,8 +33,8 @@ status-website:
   introMessage: This is an adaption for our **Institute** which uses **real-time** data from our [GitHub repository](https://github.com/androtelema/upptime).
   navbar:
     - title: Status
-      href: /
-    - title: GitHub Repo
+      href: /upptime/
+    - title: The Repo
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
