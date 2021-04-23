@@ -3,21 +3,21 @@ owner: androtelema # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Gwdg Homepage
+  - name: Gwdg Homepage - www.gwdg.de
     url: https://www.gwdg.de
-  - name: Uni-Gcms IfI Homepage
+  - name: IfI Homepage in GCMS - www.uni-goettingen.de/de/619480.html
     url: https://www.uni-goettingen.de/de/619480.html
-  - name: Yourls Link-Shortener
+  - name: Yourls Link-Shortener - cs.ugoe.de
     url: http://cs.ugoe.de
-  - name: Bewerberportal app2.informatik.uni-goettingen.de/cs/2021/wise
+  - name: Bewerberportal - app2.informatik.uni-goettingen.de/cs/2021/wise
     url: https://app2.informatik.uni-goettingen.de/cs/2021/wise
-  - name: Intra-Wiki (Staff only)
+  - name: Intra-Wiki (Staff only) - intra.informatik.uni-goettingen.de
     url: https://intra.informatik.uni-goettingen.de/wiki/index.php/Main_Page
-  - name: Doc-Wiki (public)
+  - name: Doc-Wiki (Public) - doc.informatik.uni-goettingen.de
     url: https://doc.informatik.uni-goettingen.de/wiki/index.php/Hauptseite
-  - name: Group - dbis
+  - name: Group - dbis - www.dbis.informatik.uni-goettingen.de
     url: https://www.dbis.informatik.uni-goettingen.de
-  - name: Group - swe
+  - name: Group - swe - www.swe.informatik.uni-goettingen.de
     url: https://www.swe.informatik.uni-goettingen.de
   
 status-website:
