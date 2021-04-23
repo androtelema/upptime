@@ -31,8 +31,8 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/androtelema/upptime/master/assets/upptime-icon.svg
   logoUrl: https://raw.githubusercontent.com/androtelema/upptime/master/assets/ifi-logo.png
   name: Upptime
-  introTitle: "**Upptime** open-source availability monitor for web servers"
-  introMessage: This is an adaption for our [Institute](http://cs.ugoe.de/ifi) which uses real-time data from a [GitHub repository](https://github.com/androtelema/upptime).
+  introTitle: "Open-source availability monitor for some of our web servers"
+  introMessage: This is for our [Institute](http://cs.ugoe.de/ifi) and it uses real-time data from a [GitHub repository](https://github.com/androtelema/upptime).
   navbar:
     - title: Status
       href: /upptime/
