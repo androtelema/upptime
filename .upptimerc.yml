@@ -15,6 +15,10 @@ sites:
     url: https://intra.informatik.uni-goettingen.de/wiki/index.php/Main_Page
   - name: Doc-Wiki (public)
     url: https://doc.informatik.uni-goettingen.de/wiki/index.php/Hauptseite
+  - name: Group - dbis
+    url: https://www.dbis.informatik.uni-goettingen.de
+  - name: Group - swe
+    url: https://www.swe.informatik.uni-goettingen.de
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
