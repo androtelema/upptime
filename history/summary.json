@@ -42,9 +42,9 @@
     "url": "https://studip.uni-goettingen.de/",
     "icon": "https://favicons.githubusercontent.com/studip.uni-goettingen.de",
     "slug": "stud-ip-studip-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -54,6 +54,7 @@
     "timeMonth": 960,
     "timeYear": 954,
     "dailyMinutesDown": {
+      "2021-06-29": 0,
       "2021-05-19": 57
     }
   },
@@ -63,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/app2.informatik.uni-goettingen.de",
     "slug": "bewerberportal-app2-informatik-uni-goettingen-de",
     "status": "up",
-    "uptime": "95.37%",
+    "uptime": "95.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.37%",
+    "uptimeYear": "95.38%",
     "time": 1029,
     "timeDay": 1263,
     "timeWeek": 1047,
