@@ -64,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/app2.informatik.uni-goettingen.de",
     "slug": "bewerberportal-app2-informatik-uni-goettingen-de",
     "status": "up",
-    "uptime": "96.70%",
+    "uptime": "96.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.70%",
+    "uptimeYear": "96.71%",
     "time": 1044,
     "timeDay": 964,
     "timeWeek": 1081,
@@ -122,10 +122,10 @@
     "url": "https://user.informatik.uni-goettingen.de/~atmg/",
     "icon": "https://favicons.githubusercontent.com/user.informatik.uni-goettingen.de",
     "slug": "user-homepages-user-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 612,
@@ -133,16 +133,18 @@
     "timeWeek": 672,
     "timeMonth": 642,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-26": 1
+    }
   },
   {
     "name": "Group - dbis - www.dbis.informatik.uni-goettingen.de",
     "url": "https://www.dbis.informatik.uni-goettingen.de",
     "icon": "https://favicons.githubusercontent.com/www.dbis.informatik.uni-goettingen.de",
     "slug": "group-dbis-www-dbis-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,16 +153,18 @@
     "timeWeek": 636,
     "timeMonth": 644,
     "timeYear": 607,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-26": 0
+    }
   },
   {
     "name": "Group - swe - www.swe.informatik.uni-goettingen.de",
     "url": "https://www.swe.informatik.uni-goettingen.de",
     "icon": "https://favicons.githubusercontent.com/www.swe.informatik.uni-goettingen.de",
     "slug": "group-swe-www-swe-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,6 +173,8 @@
     "timeWeek": 760,
     "timeMonth": 776,
     "timeYear": 755,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-26": 0
+    }
   }
 ]
