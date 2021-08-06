@@ -124,19 +124,19 @@
     "url": "https://user.informatik.uni-goettingen.de/~atmg/",
     "icon": "https://favicons.githubusercontent.com/user.informatik.uni-goettingen.de",
     "slug": "user-homepages-user-informatik-uni-goettingen-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 604,
-    "timeDay": 542,
-    "timeWeek": 516,
-    "timeMonth": 604,
-    "timeYear": 604,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 603,
+    "timeDay": 496,
+    "timeWeek": 504,
+    "timeMonth": 598,
+    "timeYear": 603,
     "dailyMinutesDown": {
-      "2021-08-06": 0
+      "2021-08-06": 18
     }
   },
   {
