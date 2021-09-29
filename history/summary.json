@@ -6,7 +6,7 @@
     "slug": "gcms-www-uni-goettingen-de",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "65.59%",
+    "uptimeDay": "83.41%",
     "uptimeWeek": "88.77%",
     "uptimeMonth": "97.42%",
     "uptimeYear": "99.44%",
@@ -46,9 +46,9 @@
     "url": "https://studip.uni-goettingen.de/",
     "icon": "https://favicons.githubusercontent.com/studip.uni-goettingen.de",
     "slug": "stud-ip-studip-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.87%",
@@ -58,6 +58,7 @@
     "timeMonth": 883,
     "timeYear": 947,
     "dailyMinutesDown": {
+      "2021-09-29": 0,
       "2021-09-07": 221,
       "2021-06-29": 24,
       "2021-05-19": 57
