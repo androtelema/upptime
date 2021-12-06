@@ -28,9 +28,9 @@
     "url": "http://cs.ugoe.de",
     "icon": "https://favicons.githubusercontent.com/cs.ugoe.de",
     "slug": "yourls-link-shortener-cs-ugoe-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -39,7 +39,9 @@
     "timeWeek": 744,
     "timeMonth": 921,
     "timeYear": 913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-06": 0
+    }
   },
   {
     "name": "Stud.IP - studip.uni-goettingen.de",
