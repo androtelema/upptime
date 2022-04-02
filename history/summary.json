@@ -121,18 +121,20 @@
     "url": "https://doc.informatik.uni-goettingen.de/wiki/index.php/Hauptseite",
     "icon": "https://favicons.githubusercontent.com/doc.informatik.uni-goettingen.de",
     "slug": "doc-wiki-public-doc-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1055,
-    "timeDay": 694,
-    "timeWeek": 932,
-    "timeMonth": 1046,
+    "timeDay": 847,
+    "timeWeek": 940,
+    "timeMonth": 1045,
     "timeYear": 1055,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-02": 0
+    }
   },
   {
     "name": "User Homepages - user.informatik.uni-goettingen.de",
