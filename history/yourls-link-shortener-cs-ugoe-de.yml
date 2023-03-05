@@ -1,7 +1,7 @@
 url: http://cs.ugoe.de
-status: up
-code: 200
-responseTime: 1609
-lastUpdated: 2023-03-05T21:40:53.376Z
+status: down
+code: 503
+responseTime: 2640
+lastUpdated: 2023-03-05T21:59:16.363Z
 startTime: Fri Apr 23 2021 07:54:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
