@@ -1,7 +1,7 @@
 url: https://intra.informatik.uni-goettingen.de/wiki/index.php/Main_Page
-status: up
-code: 200
-responseTime: 4332
-lastUpdated: 2023-09-09T23:03:02.278Z
+status: down
+code: 500
+responseTime: 2338
+lastUpdated: 2023-09-10T03:41:15.547Z
 startTime: 2021-04-23T07:54:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
