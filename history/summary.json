@@ -44,7 +44,7 @@
     "time": 1198,
     "timeDay": 780,
     "timeWeek": 977,
-    "timeMonth": 940,
+    "timeMonth": 947,
     "timeYear": 1270,
     "dailyMinutesDown": {
       "2023-08-28": 270,
@@ -63,9 +63,9 @@
     "url": "https://studip.uni-goettingen.de/",
     "icon": "https://icons.duckduckgo.com/ip3/studip.uni-goettingen.de.ico",
     "slug": "stud-ip-studip-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
@@ -75,6 +75,7 @@
     "timeMonth": 745,
     "timeYear": 812,
     "dailyMinutesDown": {
+      "2023-10-10": 0,
       "2023-08-18": 381,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
@@ -122,7 +123,7 @@
     "time": 3585,
     "timeDay": 2745,
     "timeWeek": 3253,
-    "timeMonth": 3412,
+    "timeMonth": 3447,
     "timeYear": 4299,
     "dailyMinutesDown": {}
   },
