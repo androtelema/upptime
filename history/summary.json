@@ -6,17 +6,16 @@
     "slug": "gcms-www-uni-goettingen-de",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1417,
     "timeDay": 1175,
     "timeWeek": 1263,
-    "timeMonth": 1502,
+    "timeMonth": 1512,
     "timeYear": 1388,
     "dailyMinutesDown": {
-      "2024-04-30": 9,
       "2024-02-08": 33,
       "2023-11-27": 15,
       "2023-10-17": 18,
@@ -40,7 +39,7 @@
     "time": 1244,
     "timeDay": 790,
     "timeWeek": 904,
-    "timeMonth": 884,
+    "timeMonth": 889,
     "timeYear": 1035,
     "dailyMinutesDown": {
       "2024-04-01": 486,
@@ -65,7 +64,7 @@
     "time": 824,
     "timeDay": 789,
     "timeWeek": 766,
-    "timeMonth": 739,
+    "timeMonth": 741,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2023-08-18": 381,
@@ -88,7 +87,7 @@
     "time": 1070,
     "timeDay": 1082,
     "timeWeek": 974,
-    "timeMonth": 943,
+    "timeMonth": 945,
     "timeYear": 1069,
     "dailyMinutesDown": {}
   },
@@ -106,7 +105,7 @@
     "time": 4740,
     "timeDay": 8026,
     "timeWeek": 4994,
-    "timeMonth": 3864,
+    "timeMonth": 3873,
     "timeYear": 3434,
     "dailyMinutesDown": {}
   },
@@ -124,7 +123,7 @@
     "time": 1034,
     "timeDay": 822,
     "timeWeek": 1000,
-    "timeMonth": 974,
+    "timeMonth": 979,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-01-03": 21
@@ -144,7 +143,7 @@
     "time": 567,
     "timeDay": 457,
     "timeWeek": 541,
-    "timeMonth": 538,
+    "timeMonth": 539,
     "timeYear": 568,
     "dailyMinutesDown": {
       "2023-12-27": 27
@@ -164,7 +163,7 @@
     "time": 568,
     "timeDay": 520,
     "timeWeek": 612,
-    "timeMonth": 556,
+    "timeMonth": 550,
     "timeYear": 564,
     "dailyMinutesDown": {
       "2024-04-24": 50,
@@ -186,7 +185,7 @@
     "time": 717,
     "timeDay": 601,
     "timeWeek": 1167,
-    "timeMonth": 797,
+    "timeMonth": 803,
     "timeYear": 719,
     "dailyMinutesDown": {
       "2024-04-24": 50,
