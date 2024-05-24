@@ -1,7 +1,7 @@
 url: https://www.swe.informatik.uni-goettingen.de
-status: up
-code: 200
-responseTime: 604
-lastUpdated: 2024-05-23T23:07:57.871Z
+status: down
+code: 503
+responseTime: 669
+lastUpdated: 2024-05-24T04:52:06.318Z
 startTime: 2021-04-23T07:54:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
