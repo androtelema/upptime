@@ -1,7 +1,7 @@
 url: https://www.uni-goettingen.de
-status: up
-code: 200
-responseTime: 1313
-lastUpdated: 2024-06-07T23:06:58.000Z
+status: down
+code: 500
+responseTime: 1347
+lastUpdated: 2024-06-08T03:30:49.897Z
 startTime: 2021-04-23T08:03:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>
