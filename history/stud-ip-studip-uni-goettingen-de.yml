@@ -1,7 +1,7 @@
 url: https://studip.uni-goettingen.de/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-19T23:49:02.208Z
+status: up
+code: 200
+responseTime: 974
+lastUpdated: 2024-12-20T01:40:11.996Z
 startTime: 2021-04-23T07:56:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
