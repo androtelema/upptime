@@ -9,8 +9,6 @@ sites:
     url: http://cs.ugoe.de
   - name: Stud.IP - studip.uni-goettingen.de
     url: https://studip.uni-goettingen.de/
-  - name: Bewerberportal - app2.informatik.uni-goettingen.de
-    url: https://app2.informatik.uni-goettingen.de/
   - name: Intra-Wiki (Staff only) - intra.informatik.uni-goettingen.de
     url: https://intra.informatik.uni-goettingen.de/wiki/index.php/Main_Page
   - name: Doc-Wiki (Public) - doc.informatik.uni-goettingen.de
