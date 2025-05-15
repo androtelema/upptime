@@ -199,13 +199,13 @@
     "url": "https://www.swe.informatik.uni-goettingen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.swe.informatik.uni-goettingen.de.ico",
     "slug": "group-swe-www-swe-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "79.56%",
+    "uptimeDay": "79.54%",
     "uptimeWeek": "85.34%",
     "uptimeMonth": "90.34%",
-    "uptimeYear": "97.75%",
-    "time": 1115,
+    "uptimeYear": "97.76%",
+    "time": 1116,
     "timeDay": 3194,
     "timeWeek": 1636,
     "timeMonth": 1157,
@@ -263,8 +263,7 @@
       "2025-02-09": 20,
       "2025-02-08": 34,
       "2024-08-14": 18,
-      "2024-07-17": 15,
-      "2024-05-24": 49
+      "2024-07-17": 15
     }
   }
 ]
