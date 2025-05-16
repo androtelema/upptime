@@ -8,7 +8,7 @@
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.87%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.85%",
     "time": 1539,
     "timeDay": 1222,
@@ -199,14 +199,14 @@
     "url": "https://www.swe.informatik.uni-goettingen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.swe.informatik.uni-goettingen.de.ico",
     "slug": "group-swe-www-swe-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "33.94%",
-    "uptimeWeek": "78.27%",
+    "uptimeDay": "35.81%",
+    "uptimeWeek": "78.77%",
     "uptimeMonth": "88.40%",
     "uptimeYear": "97.61%",
     "time": 1119,
-    "timeDay": 2064,
+    "timeDay": 2273,
     "timeWeek": 1534,
     "timeMonth": 1131,
     "timeYear": 1252,
@@ -260,8 +260,7 @@
       "2025-02-13": 491,
       "2025-02-12": 470,
       "2025-02-11": 113,
-      "2025-02-10": 43,
-      "2025-02-09": 20
+      "2025-02-10": 43
     }
   }
 ]
