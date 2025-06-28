@@ -181,9 +181,9 @@
     "slug": "group-dbis-www-dbis-informatik-uni-goettingen-de",
     "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "84.89%",
-    "uptimeWeek": "97.84%",
-    "uptimeMonth": "99.23%",
+    "uptimeDay": "83.71%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "99.19%",
     "uptimeYear": "98.55%",
     "time": 682,
     "timeDay": 6974,
@@ -191,7 +191,7 @@
     "timeMonth": 1540,
     "timeYear": 730,
     "dailyMinutesDown": {
-      "2025-06-28": 218,
+      "2025-06-28": 235,
       "2025-06-11": 119,
       "2025-05-26": 407,
       "2025-05-25": 1367,
@@ -210,13 +210,13 @@
     "url": "https://www.swe.informatik.uni-goettingen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.swe.informatik.uni-goettingen.de.ico",
     "slug": "group-swe-www-swe-informatik-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "83.44%",
+    "uptimeDay": "83.42%",
     "uptimeWeek": "97.63%",
     "uptimeMonth": "99.19%",
     "uptimeYear": "96.94%",
-    "time": 1248,
+    "time": 1249,
     "timeDay": 6387,
     "timeWeek": 3779,
     "timeMonth": 1747,
@@ -268,7 +268,7 @@
       "2025-03-03": 27,
       "2025-03-02": 38,
       "2025-02-28": 86,
-      "2025-02-27": 70
+      "2025-02-27": 33
     }
   }
 ]
