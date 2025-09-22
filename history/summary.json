@@ -6,17 +6,16 @@
     "slug": "gcms-www-uni-goettingen-de",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.79%",
     "time": 1588,
     "timeDay": 1508,
     "timeWeek": 1417,
-    "timeMonth": 1541,
+    "timeMonth": 1535,
     "timeYear": 1626,
     "dailyMinutesDown": {
-      "2025-09-21": 14,
       "2025-08-24": 82,
       "2025-08-18": 90,
       "2025-07-29": 63,
@@ -49,7 +48,7 @@
     "time": 935,
     "timeDay": 726,
     "timeWeek": 969,
-    "timeMonth": 968,
+    "timeMonth": 948,
     "timeYear": 932,
     "dailyMinutesDown": {
       "2025-02-10": 19,
@@ -68,8 +67,7 @@
       "2024-10-04": 19,
       "2024-10-03": 25,
       "2024-09-24": 1037,
-      "2024-09-23": 88,
-      "2024-09-22": 25
+      "2024-09-23": 88
     }
   },
   {
@@ -86,7 +84,7 @@
     "time": 1033,
     "timeDay": 684,
     "timeWeek": 754,
-    "timeMonth": 936,
+    "timeMonth": 922,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2024-12-20": 100,
@@ -107,7 +105,7 @@
     "time": 3768,
     "timeDay": 6887,
     "timeWeek": 3762,
-    "timeMonth": 4045,
+    "timeMonth": 4048,
     "timeYear": 3563,
     "dailyMinutesDown": {}
   },
@@ -125,7 +123,7 @@
     "time": 1102,
     "timeDay": 928,
     "timeWeek": 1019,
-    "timeMonth": 1097,
+    "timeMonth": 1083,
     "timeYear": 1096,
     "dailyMinutesDown": {
       "2025-04-29": 536,
@@ -147,7 +145,7 @@
     "time": 595,
     "timeDay": 609,
     "timeWeek": 656,
-    "timeMonth": 646,
+    "timeMonth": 641,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2025-05-19": 24,
@@ -171,7 +169,7 @@
     "time": 735,
     "timeDay": 713,
     "timeWeek": 631,
-    "timeMonth": 614,
+    "timeMonth": 606,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2025-07-28": 60,
@@ -203,7 +201,7 @@
     "time": 1290,
     "timeDay": 601,
     "timeWeek": 750,
-    "timeMonth": 720,
+    "timeMonth": 717,
     "timeYear": 1387,
     "dailyMinutesDown": {
       "2025-07-28": 60,
