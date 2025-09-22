@@ -4,9 +4,9 @@
     "url": "https://www.uni-goettingen.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.uni-goettingen.de.ico",
     "slug": "gcms-www-uni-goettingen-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 1535,
     "timeYear": 1626,
     "dailyMinutesDown": {
+      "2025-09-22": 0,
       "2025-08-24": 82,
       "2025-08-18": 90,
       "2025-07-29": 63,
@@ -49,7 +50,7 @@
     "timeDay": 726,
     "timeWeek": 969,
     "timeMonth": 948,
-    "timeYear": 932,
+    "timeYear": 933,
     "dailyMinutesDown": {
       "2025-02-10": 19,
       "2025-02-09": 17,
@@ -106,7 +107,7 @@
     "timeDay": 6887,
     "timeWeek": 3762,
     "timeMonth": 4048,
-    "timeYear": 3563,
+    "timeYear": 3569,
     "dailyMinutesDown": {}
   },
   {
